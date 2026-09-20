@@ -33,6 +33,13 @@ When a bug report or feature request in this repository is selected for active w
 
 A public report remains open while it is only waiting in the intake queue. Do not close it merely because it has been read or triaged.
 
+## Website and support linkage
+
+- Keep the repository visibly connected to the live Tools site without pretending to be the application source repository.
+- `README.md` should link to `https://tools.tornevall.net/`, the public service catalogue at `https://tools.tornevall.net/services`, and the built-in suggestion board at `https://tools.tornevall.net/suggestions`.
+- GitHub Issues in this repository are the public bug/feature-request intake. The built-in suggestion board remains a complementary feedback route.
+- Public text must make clear that a public issue closed with an **in progress** handoff note has moved to internal implementation work and is not necessarily released yet.
+
 ## Public changelog rules
 
 - Keep `CHANGELOG.md` user-facing and implementation-agnostic.
